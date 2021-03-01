@@ -3,5 +3,18 @@
   "version": "1.0.0",
   "devDependencies": {
     "csv-parse": "^4.15.3"
+  },
+
+  "scripts": {
+    "test": "jest",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+  },
+
+  "jest": {
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!data/keyMap.js",
+      "!/node_modules/"
+    ]
   }
 }
