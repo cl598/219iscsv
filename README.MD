@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.com/cl598/219iscsv.svg?branch=main)](https://travis-ci.com/cl598/219iscsv)
+[![Coverage Status](https://coveralls.io/repos/github/cl598/219iscsv/badge.svg?branch=master)](https://coveralls.io/github/cl598/219iscsv?branch=master)
