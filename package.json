@@ -1,0 +1,7 @@
+{
+  "name": "219iscsv",
+  "version": "1.0.0",
+  "devDependencies": {
+    "csv-parse": "^4.15.3"
+  }
+}
